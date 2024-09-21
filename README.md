@@ -3,17 +3,16 @@
 
 Table of Contents
 
-1. #introduction
-2. #features
-3. #functionality
-4. #technical-requirements
-5. #installation
-6. #usage
-7. #models
-8. #performance-metrics
-9. #visualization
-10. #conclusion
-
+1. # introduction
+2. ## features
+3. ### functionality
+4. #### technical-requirements
+5. ##### installation
+6. ###### usage
+7. models
+8. performance-metrics
+9. visualization
+10. conclusion
 
 ## Introduction
 
@@ -42,7 +41,7 @@ This project uses machine learning to predict stock prices. We'll explore four m
 6. Visualization: Plots performance metrics and model comparisons.
 
 
-Technical Requirements
+##### Technical Requirements
 
 
 - Python 3.x
@@ -52,7 +51,7 @@ Technical Requirements
 - plotly
 
 
-Installation
+##### Installation
 
 
 
@@ -65,10 +64,10 @@ Usage
 
 
 1. Clone the repository.
-2. Run python (link unavailable).
+2. Run python 
 
 
-#### Models
+##### Models
 
 
 1. Logistic Regression: A linear model for binary classification.
@@ -77,7 +76,7 @@ Usage
 4. Gradient Boosting: An ensemble model combining multiple weak learners.
 
 
-#### Performance Metrics
+##### Performance Metrics
 
 
 - Accuracy: Proportion of correct predictions.
@@ -87,7 +86,7 @@ Usage
 - Support: Number of instances in each class.
 
 
-#### Visualization
+##### Visualization
 
 
 - Scatter Matrix: Plots relationships between features.
@@ -96,6 +95,6 @@ Usage
 - Model Accuracy Comparison: Plots accuracy comparison among models.
 
 
-#### Conclusion
+##### Conclusion
 
 This project demonstrates the application of machine learning in stock price prediction. Gradient Boosting performed best with an accuracy of 0.90.
